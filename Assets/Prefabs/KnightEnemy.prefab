@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2506819632968719695}
   - component: {fileID: 285522607825027648}
   - component: {fileID: 8962343405730947121}
-  - component: {fileID: -454023080425902407}
+  - component: {fileID: 1127039343733389680}
   m_Layer: 0
   m_Name: KnightEnemy
   m_TagString: Untagged
@@ -112,7 +112,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &-454023080425902407
+--- !u!114 &1127039343733389680
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -121,7 +121,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8888155592594655792}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 12545d8f69f2d874db7b17f58204ad6e, type: 3}
+  m_Script: {fileID: 11500000, guid: e0a664a3dbf095c46ba5e7617cf299bd, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::KnightEnemy
+  m_EditorClassIdentifier: Assembly-CSharp::Enemy
   _speed: 3

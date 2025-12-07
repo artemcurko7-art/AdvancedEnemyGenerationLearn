@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 211d10867f34212409902091df4cb318, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spawner
-  _enemy: {fileID: -454023080425902407, guid: 4b3f20068e388de4b8c3049d3183ec9c, type: 3}
+  _enemy: {fileID: 1127039343733389680, guid: 4b3f20068e388de4b8c3049d3183ec9c, type: 3}
   _spawnPoint: {fileID: 206963098}
   _target: {fileID: 1289061841}
   _repeatRate: 8
@@ -733,7 +733,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 211d10867f34212409902091df4cb318, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spawner
-  _enemy: {fileID: -7560857669700093722, guid: 7b1ab6a943ecaab418a80f3512d0f51f, type: 3}
+  _enemy: {fileID: 1243719603518189522, guid: 7b1ab6a943ecaab418a80f3512d0f51f, type: 3}
   _spawnPoint: {fileID: 665649813}
   _target: {fileID: 1932124786}
   _repeatRate: 5
@@ -1960,7 +1960,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 211d10867f34212409902091df4cb318, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spawner
-  _enemy: {fileID: 3195901892160503221, guid: cb10977d7cba4154d9199052ffe726c8, type: 3}
+  _enemy: {fileID: 1097791696651662616, guid: cb10977d7cba4154d9199052ffe726c8, type: 3}
   _spawnPoint: {fileID: 2141105610}
   _target: {fileID: 133405830}
   _repeatRate: 3

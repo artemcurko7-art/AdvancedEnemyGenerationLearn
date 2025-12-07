@@ -15,10 +15,10 @@ public class Target : MonoBehaviour
 
     private void Update()
     {
-        Movement();
+        Move();
     }
 
-    private void Movement()
+    private void Move()
     {
         transform.position = Vector3.MoveTowards(transform.position, GetDirection(), _speed * Time.deltaTime);
     }

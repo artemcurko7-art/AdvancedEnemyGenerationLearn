@@ -23,9 +23,11 @@ public class Spawner : MonoBehaviour
 
     private IEnumerator SpawnEnemies()
     {
+        var wait = new WaitForSeconds(_repeatRate);
+
         while (enabled)
         {
-            yield return new WaitForSeconds(_repeatRate);
+            yield return wait;
 
             var enemy = Instantiate(_enemy, GetRandomPosition(), Quaternion.identity);
             enemy.Initialize(_target);
